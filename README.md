@@ -1,4 +1,4 @@
-<h1>Final Project Crypto Portafolio (Course at Open Bootcamp : HTML & CSS</h1>
+<h1>Final Project Crypto Portafolio (Course at Open Bootcamp : HTML & CSS)</h1>
 
 <h2>1. Project description:</h2>
 <p>Final project of the HTML and CSS course at Open Bootcamp. A page is developed for the purchase and sale of bitcoins (Crypto portafolio).</p>
